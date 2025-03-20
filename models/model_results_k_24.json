@@ -1,0 +1,56 @@
+[
+    {
+        "dataset_TRAIN": "X_train_con_outliers.csv",
+        "MSE_train": 5461570.616243798,
+        "r2_train": 0.999516481058723,
+        "dataset_TEST": "X_test_con_outliers.csv",
+        "MSE_test": 5183508.051105861,
+        "r2_test": 0.9985814276129313,
+        "feat_sel": "k24"
+    },
+    {
+        "dataset_TRAIN": "X_train_sin_outliers.csv",
+        "MSE_train": 7994459539.588396,
+        "r2_train": 0.292241575863459,
+        "dataset_TEST": "X_test_sin_outliers.csv",
+        "MSE_test": 1933498846.5811312,
+        "r2_test": 0.47085872209577373,
+        "feat_sel": "k24"
+    },
+    {
+        "dataset_TRAIN": "X_train_con_outliers_norm.csv",
+        "MSE_train": 5461570.616243783,
+        "r2_train": 0.999516481058723,
+        "dataset_TEST": "X_test_con_outliers_norm.csv",
+        "MSE_test": 5183508.051105815,
+        "r2_test": 0.9985814276129314,
+        "feat_sel": "k24"
+    },
+    {
+        "dataset_TRAIN": "X_train_sin_outliers_norm.csv",
+        "MSE_train": 7994459539.588398,
+        "r2_train": 0.2922415758634589,
+        "dataset_TEST": "X_test_sin_outliers_norm.csv",
+        "MSE_test": 1933498846.5811393,
+        "r2_test": 0.4708587220957715,
+        "feat_sel": "k24"
+    },
+    {
+        "dataset_TRAIN": "X_train_con_outliers_scal.csv",
+        "MSE_train": 5461570.616243786,
+        "r2_train": 0.999516481058723,
+        "dataset_TEST": "X_test_con_outliers_scal.csv",
+        "MSE_test": 5183508.051105832,
+        "r2_test": 0.9985814276129314,
+        "feat_sel": "k24"
+    },
+    {
+        "dataset_TRAIN": "X_train_sin_outliers_scal.csv",
+        "MSE_train": 7994459539.588398,
+        "r2_train": 0.2922415758634589,
+        "dataset_TEST": "X_test_sin_outliers_scal.csv",
+        "MSE_test": 1933498846.5811353,
+        "r2_test": 0.4708587220957726,
+        "feat_sel": "k24"
+    }
+]
